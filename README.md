@@ -114,6 +114,33 @@ Frecuencia de 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/93835587/152995922-4de03b6f-72ad-4581-842d-19a5a2f0472f.png)
 
+Medimos voltaje con el multimetro
+
+ Para 0Hz
+ 
+ ![image](https://user-images.githubusercontent.com/93835587/152998797-300a8f45-6e72-428b-b6fc-f8b830440c2a.png)
+ 
+ Para 10 Hz
+ 
+ ![image](https://user-images.githubusercontent.com/93835587/152999079-f32261e3-2a7b-425e-a040-dc2666df2efa.png)
+
+ Para 50 Hz
+ 
+ ![image](https://user-images.githubusercontent.com/93835587/152999370-de457f23-d6f6-46d2-9b4b-427ad75851ff.png)
+
+ Para 100Hz
+ 
+ ![image](https://user-images.githubusercontent.com/93835587/152999520-1144f8c9-ebcf-4426-ab3e-797bf6dfe95a.png)
+
+ Para 500Hz
+ 
+ ![image](https://user-images.githubusercontent.com/93835587/153000423-18d310f9-e0f3-486f-b0e5-09d3a5447077.png)
+
+ Para 1000Hz
+
+![image](https://user-images.githubusercontent.com/93835587/153000739-c9b52b0b-7910-4d5a-9b01-a1950d44f79d.png)
+
+
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
