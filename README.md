@@ -24,6 +24,26 @@
 
 **7.2. REQUISITOS PREVIOS**
 
+1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
+a. Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los
+valores de 0, 10, 50, 100, 500, 1000Hz . Anote los valores pico de las ondas observadas.
+
+b. Utilice un multímetro para medir el voltaje VO variando la frecuencia entre los valores
+de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+
+c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
+
+![image](https://user-images.githubusercontent.com/93835587/152986655-21ba3f8f-6de8-4bde-96b8-e148534581c9.png)
+
+2.- Construya el circuito mostrado en la Figura 2 
+
+Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados. 
+
+![image](https://user-images.githubusercontent.com/93835587/152986754-2c4089c9-d27e-4772-97b3-f7b63ff0069f.png)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -55,24 +75,6 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 **1.5. MARCO TEÓRICO**
 
-1.- Construya en el protoboard el circuito mostrado en la Figura 1.
-
-a. Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los
-valores de 0, 10, 50, 100, 500, 1000Hz . Anote los valores pico de las ondas observadas.
-
-b. Utilice un multímetro para medir el voltaje VO variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
-
-c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
-
-![image](https://user-images.githubusercontent.com/93835587/152986655-21ba3f8f-6de8-4bde-96b8-e148534581c9.png)
-
-2.- Construya el circuito mostrado en la Figura 2 
-
-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados. 
-
-![image](https://user-images.githubusercontent.com/93835587/152986754-2c4089c9-d27e-4772-97b3-f7b63ff0069f.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
