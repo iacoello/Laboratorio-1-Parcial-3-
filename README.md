@@ -16,6 +16,7 @@
 * --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7.1. OBJETIVO GENERAL**
+
 -Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
