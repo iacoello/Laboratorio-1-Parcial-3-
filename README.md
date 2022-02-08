@@ -90,11 +90,10 @@ Caso 1
 
 Frecuencia de 0Hz
 
-![image](https://user-images.githubusercontent.com/93835587/153006191-318e0eef-3ebb-4b25-9b15-41a9c09d4413.png)
 
 Frecuencia de 10Hz
 
-![image](https://user-images.githubusercontent.com/93835587/153004308-8ea11724-8cab-4d72-affe-fc057e14a649.png)
+
 
 Frecuencia de 50Hz
 
@@ -117,12 +116,12 @@ Medimos voltaje con el multimetro
 
  Para 0Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/152998797-300a8f45-6e72-428b-b6fc-f8b830440c2a.png)
- 
+ ![image](https://user-images.githubusercontent.com/93835587/153006191-318e0eef-3ebb-4b25-9b15-41a9c09d4413.png)
+
  Para 10 Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/152999079-f32261e3-2a7b-425e-a040-dc2666df2efa.png)
-
+ ![image](https://user-images.githubusercontent.com/93835587/153004308-8ea11724-8cab-4d72-affe-fc057e14a649.png)
+ 
  Para 50 Hz
  
 ![image](https://user-images.githubusercontent.com/93835587/153002395-e716580a-7ade-4f4d-a2fe-db671c9f5c54.png)
