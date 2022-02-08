@@ -103,7 +103,7 @@ Frecuencia de 50Hz
 
 Frecuencia de 100Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152997034-9a34f164-da3c-47c0-9973-1d9ebb45ad19.png)
+![image](https://user-images.githubusercontent.com/93835587/152997693-d6f57fb6-6365-4371-be4e-6a8affbd74a3.png)
 
 
 Frecuencia de 500Hz
