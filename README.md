@@ -94,7 +94,8 @@ Frecuencia de 0Hz
 
 Frecuencia de 10Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152992615-9e3cb1d6-b4a7-4767-b3bc-08f1dd81ed0f.png)
+![image](https://user-images.githubusercontent.com/93835587/152997246-c5634dcc-c77f-45db-9634-c7b2f05ee834.png)
+
 
 Frecuencia de 50Hz
 
@@ -102,7 +103,8 @@ Frecuencia de 50Hz
 
 Frecuencia de 100Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152994101-9f16b0d9-1a4b-4ae9-8dab-bd7a49a6bdd9.png)
+![image](https://user-images.githubusercontent.com/93835587/152997034-9a34f164-da3c-47c0-9973-1d9ebb45ad19.png)
+
 
 Frecuencia de 500Hz
 
