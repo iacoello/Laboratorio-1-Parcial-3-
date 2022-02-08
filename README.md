@@ -90,12 +90,11 @@ Caso 1
 
 Frecuencia de 0Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152991985-36907393-0c41-46cf-9b6b-96b541b3adf0.png)
+![image](https://user-images.githubusercontent.com/93835587/153006191-318e0eef-3ebb-4b25-9b15-41a9c09d4413.png)
 
 Frecuencia de 10Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152997246-c5634dcc-c77f-45db-9634-c7b2f05ee834.png)
-
+![image](https://user-images.githubusercontent.com/93835587/153004308-8ea11724-8cab-4d72-affe-fc057e14a649.png)
 
 Frecuencia de 50Hz
 
@@ -143,35 +142,11 @@ Medimos voltaje con el multimetro
 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
-**1.7. ANÁLISIS DE RESULTADOS**
-
-![WhatsApp Image 2022-02-08 at 00 24 53](https://user-images.githubusercontent.com/93835533/153004978-cf73577f-7221-420c-88ab-056973ac6bf8.jpeg)
 
 
--------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
-
-**1.8. PREGUNTAS**
-
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
-
-Cuando la frecuencia de la fuente es de 0 Hz dicha fuente simula una corriente directa debido a esto la bobina y el capacitor se comporta como un conductor ideal (cortocircuito), debido a que la corriente no varía en el tiempo, es decir no hay autoinducción de ninguna fuerza electromotriz.
-
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
-
-En corriente alterna la bobina y el capacitor sufren constantes cambios, procesos de carga y descarga generando así una onda sinusoidal mostrado en el osciloscopio que se mantiene durante un largo periodo de tiempo e identifica las valores máximos y mínimos que produce la bobina y el capacitor.
-
-3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
-
-Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiéndoles así conectarse en paralelo, si sus valores fueran distintos generarían fuentes que violan las leyes de Kirchhoff.
-
-4.- ¿Qué son los valores eficaces de voltaje y corriente?
-
-El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
-
-
+**1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 
 **1.8. VIDEOS**
