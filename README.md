@@ -126,7 +126,7 @@ Medimos voltaje con el multimetro
 
  Para 50 Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/152999370-de457f23-d6f6-46d2-9b4b-427ad75851ff.png)
+![image](https://user-images.githubusercontent.com/93835587/153002395-e716580a-7ade-4f4d-a2fe-db671c9f5c54.png)
 
  Para 100Hz
  
