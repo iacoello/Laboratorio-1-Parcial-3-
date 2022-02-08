@@ -81,6 +81,13 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 **1.6. EXPLICACIÓN DE PROCEDIMIENTO**
 
+Circuito Armado 
+
+Caso 1
+
+![image](https://user-images.githubusercontent.com/93835587/152996427-978b7683-c506-4615-b013-dcf08a8b8db5.png)
+
+
 Frecuencia de 0Hz
 
 ![image](https://user-images.githubusercontent.com/93835587/152991985-36907393-0c41-46cf-9b6b-96b541b3adf0.png)
@@ -89,6 +96,21 @@ Frecuencia de 10Hz
 
 ![image](https://user-images.githubusercontent.com/93835587/152992615-9e3cb1d6-b4a7-4767-b3bc-08f1dd81ed0f.png)
 
+Frecuencia de 50Hz
+
+![image](https://user-images.githubusercontent.com/93835587/152993290-7c05fe6b-3e56-4ea9-baba-e09a42fa9583.png)
+
+Frecuencia de 100Hz
+
+![image](https://user-images.githubusercontent.com/93835587/152994101-9f16b0d9-1a4b-4ae9-8dab-bd7a49a6bdd9.png)
+
+Frecuencia de 500Hz
+
+![image](https://user-images.githubusercontent.com/93835587/152996210-de150aa9-8b9d-4c6c-b8a3-0f7dc254ae08.png)
+
+Frecuencia de 1000 Hz
+
+![image](https://user-images.githubusercontent.com/93835587/152995922-4de03b6f-72ad-4581-842d-19a5a2f0472f.png)
 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
