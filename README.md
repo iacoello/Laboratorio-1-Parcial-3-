@@ -143,11 +143,34 @@ Medimos voltaje con el multimetro
 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
+**1.7. ANÁLISIS DE RESULTADOS**
 
 
-**1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+-------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
+
+**1.8. PREGUNTAS**
+
+1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
+
+Cuando la frecuencia de la fuente es de 0 Hz dicha fuente simula una corriente directa debido a esto la bobina y el capacitor se comporta como un conductor ideal (cortocircuito), debido a que la corriente no varía en el tiempo, es decir no hay autoinducción de ninguna fuerza electromotriz.
+
+2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
+
+En corriente alterna la bobina y el capacitor sufren constantes cambios, procesos de carga y descarga generando así una onda sinusoidal mostrado en el osciloscopio que se mantiene durante un largo periodo de tiempo e identifica las valores máximos y mínimos que produce la bobina y el capacitor.
+
+3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
+
+Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiéndoles así conectarse en paralelo, si sus valores fueran distintos generarían fuentes que violan las leyes de Kirchhoff.
+
+4.- ¿Qué son los valores eficaces de voltaje y corriente?
+
+El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 **1.8. VIDEOS**
