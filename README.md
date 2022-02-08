@@ -81,7 +81,14 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 **1.6. EXPLICACIÓN DE PROCEDIMIENTO**
 
+Frecuencia de 0Hz
+
 ![image](https://user-images.githubusercontent.com/93835587/152991985-36907393-0c41-46cf-9b6b-96b541b3adf0.png)
+
+Frecuencia de 10Hz
+
+![image](https://user-images.githubusercontent.com/93835587/152992615-9e3cb1d6-b4a7-4767-b3bc-08f1dd81ed0f.png)
+
 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
