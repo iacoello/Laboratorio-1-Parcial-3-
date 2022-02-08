@@ -130,7 +130,7 @@ Medimos voltaje con el multimetro
 
  Para 100Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/152999520-1144f8c9-ebcf-4426-ab3e-797bf6dfe95a.png)
+ ![image](https://user-images.githubusercontent.com/93835587/153001752-9181da86-ab76-44b9-ae7d-8a915f36539d.png)
 
  Para 500Hz
  
