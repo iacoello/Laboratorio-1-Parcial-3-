@@ -16,6 +16,7 @@
 * --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7.1. OBJETIVO GENERAL**
+
 -Verificar el comportamiento de la bobina y el capacitor en circuitos DC.
 - Verificar el comportamiento de la bobina y el capacitor en circuitos AC.
 - Verificar las combinaciones serie y paralelo de bobinas y capacitores.
@@ -90,11 +91,11 @@ Caso 1
 
 Frecuencia de 0Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152991985-36907393-0c41-46cf-9b6b-96b541b3adf0.png)
+![image](https://user-images.githubusercontent.com/93835587/153007188-4e5d18b8-9724-4ffb-ae5e-cbaa38cd02fc.png)
 
 Frecuencia de 10Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152997246-c5634dcc-c77f-45db-9634-c7b2f05ee834.png)
+![image](https://user-images.githubusercontent.com/93835587/153007486-7174d4dd-01ae-4403-9935-f43662221803.png)
 
 
 Frecuencia de 50Hz
@@ -118,12 +119,12 @@ Medimos voltaje con el multimetro
 
  Para 0Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/152998797-300a8f45-6e72-428b-b6fc-f8b830440c2a.png)
- 
+ ![image](https://user-images.githubusercontent.com/93835587/153006191-318e0eef-3ebb-4b25-9b15-41a9c09d4413.png)
+
  Para 10 Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/152999079-f32261e3-2a7b-425e-a040-dc2666df2efa.png)
-
+ ![image](https://user-images.githubusercontent.com/93835587/153004308-8ea11724-8cab-4d72-affe-fc057e14a649.png)
+ 
  Para 50 Hz
  
 ![image](https://user-images.githubusercontent.com/93835587/153002395-e716580a-7ade-4f4d-a2fe-db671c9f5c54.png)
@@ -143,33 +144,12 @@ Medimos voltaje con el multimetro
 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
-**1.7. ANÁLISIS DE RESULTADOS**
-
-![WhatsApp Image 2022-02-08 at 00 24 53](https://user-images.githubusercontent.com/93835533/153004978-cf73577f-7221-420c-88ab-056973ac6bf8.jpeg)
 
 
--------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
-
-**1.8. PREGUNTAS**
-
-1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)? 
-
-Cuando la frecuencia de la fuente es de 0 Hz dicha fuente simula una corriente directa debido a esto la bobina y el capacitor se comporta como un conductor ideal (cortocircuito), debido a que la corriente no varía en el tiempo, es decir no hay autoinducción de ninguna fuerza electromotriz.
-
-2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna? 
-
-En corriente alterna la bobina y el capacitor sufren constantes cambios, procesos de carga y descarga generando así una onda sinusoidal mostrado en el osciloscopio que se mantiene durante un largo periodo de tiempo e identifica las valores máximos y mínimos que produce la bobina y el capacitor.
-
-3.- ¿Qué cree usted que ocurriría con el voltaje y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos? 
-
-Las bobinas y capacitores tienen la misma cantidad de inductancia y capacitancia permitiéndoles así conectarse en paralelo, si sus valores fueran distintos generarían fuentes que violan las leyes de Kirchhoff.
-
-4.- ¿Qué son los valores eficaces de voltaje y corriente?
-
-El valor eficaz de una corriente alterna, es el valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar ambas, primero una y luego otra, sobre una misma resistencia.
-
+**1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 **1.8. VIDEOS**
 
@@ -177,13 +157,6 @@ El valor eficaz de una corriente alterna, es el valor que tendría una corriente
 
 
 **1.9. CONCLUCIONES**
-
-En conclucion los valores de las impedancias no son representables en cada una de las frecuencias asociadas de ambos circuitos debido a que estas se encuentran en el campo de los numeros complejos con desarrollo en la impedancia capacitiva y el otro caso como la impedancia inductiva
-
-Asi mismo las impedanciuas permiten realizar los calculos y desarrolllarlos por medio de la ley de ohm donde cada valor de la tension medida con los multimetyros corresponde a la eficazia de la caida de tension con el osiloscopio 
-
-
-finalmente concluimos que mientras mayor sea la frecuencia la impedancia capacitiva sera menor  y mientras mas alta sea esta frecuencia la impecancia sera menor. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
