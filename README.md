@@ -129,7 +129,7 @@ Frecuencia de 1000 Hz
 
  Frecuencia de 100Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/153001752-9181da86-ab76-44b9-ae7d-8a915f36539d.png)
+![image](https://user-images.githubusercontent.com/93835587/153307225-93e0f25c-ec6e-485e-8d4c-50cc26af9346.png)
 
  Frecuencia de 500Hz
  
