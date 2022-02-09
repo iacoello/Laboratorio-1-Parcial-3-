@@ -116,7 +116,7 @@ Frecuencia de 1000 Hz
 
  Frecuencia de 0Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/153006191-318e0eef-3ebb-4b25-9b15-41a9c09d4413.png)
+![image](https://user-images.githubusercontent.com/93835587/153305627-3695ea09-b33c-4e7c-903f-584f01128b0d.png)
 
  Frecuencia de 10 Hz
  
