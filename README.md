@@ -153,7 +153,18 @@ Circuito Armado
 
 7.6.2.1. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
+Frecuencia de 0 Hz
 ![image](https://user-images.githubusercontent.com/93835587/153310113-0765a24b-5645-423b-b937-4528c351a34e.png)
+
+Frecuencia de 10 Hz
+
+![image](https://user-images.githubusercontent.com/93835587/153310646-2606035d-fb5f-4c5f-bccb-645b7958fe78.png)
+
+Frecuencia de 50 Hz
+
+Frecuencia de 100 Hz
+
+Frecuencia de 1000 Hz
 
 
 7.6.2.2. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
