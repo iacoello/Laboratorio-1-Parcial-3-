@@ -116,6 +116,9 @@ Frecuencia de 1000 Hz
 
  Frecuencia de 0Hz
  
+ 7.6.1.3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
+
+ 
 ![image](https://user-images.githubusercontent.com/93835587/153305627-3695ea09-b33c-4e7c-903f-584f01128b0d.png)
 
  Frecuencia de 10 Hz
@@ -141,11 +144,6 @@ Frecuencia de 1000 Hz
 
 
 
-7.6.1.3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
-
-
-
-
 
 7.6.2. Construya el circuito mostrado en la Figura 2.
 
@@ -154,6 +152,9 @@ Frecuencia de 1000 Hz
 Circuito Armado 
 
 7.6.2.1. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+
+![image](https://user-images.githubusercontent.com/93835587/153310113-0765a24b-5645-423b-b937-4528c351a34e.png)
+
 
 7.6.2.2. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
