@@ -78,39 +78,37 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 Circuito Armado 
 
-![image](https://user-images.githubusercontent.com/93835587/152996427-978b7683-c506-4615-b013-dcf08a8b8db5.png)
-
-
+![image](https://user-images.githubusercontent.com/93835587/153304567-7b6cb715-41b6-4008-9220-8496053e2ad1.png)
 
 
 7.6.1.1. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 Frecuencia de 0Hz
 
-![image](https://user-images.githubusercontent.com/93835587/153007188-4e5d18b8-9724-4ffb-ae5e-cbaa38cd02fc.png)
+![image](https://user-images.githubusercontent.com/93835587/153304613-c6389dff-b3b7-4883-ad18-36de79c5e070.png)
+
 
 Frecuencia de 10Hz
 
-![image](https://user-images.githubusercontent.com/93835587/153007486-7174d4dd-01ae-4403-9935-f43662221803.png)
+![image](https://user-images.githubusercontent.com/93835587/153304679-168d6b4e-2830-4314-8a53-49faef0a444e.png)
 
 
 Frecuencia de 50Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152993290-7c05fe6b-3e56-4ea9-baba-e09a42fa9583.png)
+![image](https://user-images.githubusercontent.com/93835587/153304739-f20d1977-5f74-4ec6-a5df-c97756ff6229.png)
 
 Frecuencia de 100Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152997693-d6f57fb6-6365-4371-be4e-6a8affbd74a3.png)
+![image](https://user-images.githubusercontent.com/93835587/153304773-4fce5679-924d-4e68-8d06-0e7c6fcc0e4e.png)
 
 
 Frecuencia de 500Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152996210-de150aa9-8b9d-4c6c-b8a3-0f7dc254ae08.png)
+![image](https://user-images.githubusercontent.com/93835587/153304826-94187f21-3455-4755-8301-08fee12eb8f7.png)
 
 Frecuencia de 1000 Hz
 
-![image](https://user-images.githubusercontent.com/93835587/152995922-4de03b6f-72ad-4581-842d-19a5a2f0472f.png)
-
+![image](https://user-images.githubusercontent.com/93835587/153304885-0729e0c3-f6de-4d7e-8b39-15376f56974b.png)
 
 
 
