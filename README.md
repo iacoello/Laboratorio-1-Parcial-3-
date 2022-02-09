@@ -29,20 +29,7 @@
 
 
 
-a. Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los
-valores de 0, 10, 50, 100, 500, 1000Hz . Anote los valores pico de las ondas observadas.
 
-b. Utilice un multímetro para medir el voltaje VO variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
-
-c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
-
-
-
-2.- Construya el circuito mostrado en la Figura 2 
-
-Realice las mismas mediciones de los ítems del numeral anterior y presente los resultados. 
 
 ![image](https://user-images.githubusercontent.com/93835587/152986754-2c4089c9-d27e-4772-97b3-f7b63ff0069f.png)
 
@@ -85,7 +72,7 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 **7.6. PROCEDIMIENTO**
 
-**7.6.1. Construya en el protoboard el circuito mostrado en la Figura 1.**
+7.6.1. Construya en el protoboard el circuito mostrado en la Figura 1.
 
 ![image](https://user-images.githubusercontent.com/93835587/152986655-21ba3f8f-6de8-4bde-96b8-e148534581c9.png)
 
@@ -94,11 +81,7 @@ Circuito Armado
 ![image](https://user-images.githubusercontent.com/93835587/152996427-978b7683-c506-4615-b013-dcf08a8b8db5.png)
 
 
-a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas. 
-
-
-
-
+7.6.2. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 Frecuencia de 0Hz
 
@@ -126,7 +109,7 @@ Frecuencia de 1000 Hz
 
 ![image](https://user-images.githubusercontent.com/93835587/152995922-4de03b6f-72ad-4581-842d-19a5a2f0472f.png)
 
-Medimos voltaje con el multimetro
+7.6.3. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados. 
 
  Para 0Hz
  
