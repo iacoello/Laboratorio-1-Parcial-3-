@@ -165,13 +165,21 @@ Circuito Armado
 
 **7.7. ANÁLISIS DE RESULTADOS**
 
+Para cada uno de los circuitos anteriores, elabore una tabla con los resultados de las
+diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
+comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
-
 **7.8. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+7.8.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+7.8.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+7.8.3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
+
+7.8.4. ¿Qué son los valores eficaces de voltaje y corriente? 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
