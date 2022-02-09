@@ -38,7 +38,7 @@ de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
 
-![image](https://user-images.githubusercontent.com/93835587/152986655-21ba3f8f-6de8-4bde-96b8-e148534581c9.png)
+
 
 2.- Construya el circuito mostrado en la Figura 2 
 
@@ -87,12 +87,15 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 **7.6.1. Construya en el protoboard el circuito mostrado en la Figura 1.**
 
-a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas. 
+![image](https://user-images.githubusercontent.com/93835587/152986655-21ba3f8f-6de8-4bde-96b8-e148534581c9.png)
+
+
+
+a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas. 
 
 
 Circuito Armado 
 
-Caso 1
 
 ![image](https://user-images.githubusercontent.com/93835587/152996427-978b7683-c506-4615-b013-dcf08a8b8db5.png)
 
