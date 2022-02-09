@@ -137,8 +137,7 @@ Frecuencia de 1000 Hz
 
  Frecuencia de 1000Hz
 
-![image](https://user-images.githubusercontent.com/93835587/153000739-c9b52b0b-7910-4d5a-9b01-a1950d44f79d.png)
-
+![image](https://user-images.githubusercontent.com/93835587/153308240-6c74672c-354f-41cb-957c-fabf830db1ab.png)
 
 
 
