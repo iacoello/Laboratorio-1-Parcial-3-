@@ -120,11 +120,12 @@ Frecuencia de 1000 Hz
 
  Frecuencia de 10 Hz
  
- ![image](https://user-images.githubusercontent.com/93835587/153004308-8ea11724-8cab-4d72-affe-fc057e14a649.png)
+ ![image](https://user-images.githubusercontent.com/93835587/153306147-cf034171-07e1-4da5-ab83-0475e9be93f8.png)
+
  
  Frecuencia de 50 Hz
  
-![image](https://user-images.githubusercontent.com/93835587/153002395-e716580a-7ade-4f4d-a2fe-db671c9f5c54.png)
+![image](https://user-images.githubusercontent.com/93835587/153306562-be49635c-b0a2-458d-b9a5-53ecf68255c5.png)
 
  Frecuencia de 100Hz
  
