@@ -25,7 +25,7 @@
 
 **7.2. REQUISITOS PREVIOS**
 
-1.- Construya en el protoboard el circuito mostrado en la Figura 1.
+
 
 a. Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000Hz . Anote los valores pico de las ondas observadas.
@@ -48,40 +48,40 @@ Realice las mismas mediciones de los ítems del numeral anterior y presente los 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.3. INFORMACIÓN GENERAL**
+**7.3. INFORMACIÓN GENERAL**
 
 PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.4. MATERIAL Y EQUIPO REQUERIDO**
+**7.4. MATERIAL Y EQUIPO REQUERIDO**
 
--Generador de señales
+- Generador de señales.
 
 - Fuente DC.
 
 - Osciloscopio.
 
-- Protoboard
+- Protoboard.
 
-- Multímetro
+- Multímetro.
 
-- Cables conductores
+- Cables conductores.
 
 - Resistencias, bobinas y capacitores. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.5. MARCO TEÓRICO**
+**7.5. MARCO TEÓRICO**
 
 ![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93800511/153280027-5f4f2794-9095-4c8e-84e1-b302aa21df91.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.6. EXPLICACIÓN DE PROCEDIMIENTO**
+**7.6. EXPLICACIÓN DE PROCEDIMIENTO**
 
 Circuito Armado 
 
@@ -147,22 +147,22 @@ Medimos voltaje con el multimetro
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
 
-**1.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+**7.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.8. VIDEOS**
+**7.8. VIDEOS**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**7.9. CONCLUCIONES**
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**1.9. CONCLUCIONES**
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-**1.10. BIBLIOGRAFÍA**
+**7.10. BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 
