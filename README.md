@@ -155,16 +155,18 @@ Frecuencia de 1000 Hz
 
 Circuito Armado 
 
-7.6.1.1. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
+7.6.2.1. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
-7.6.1.2. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
+7.6.2.2. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.
 
-7.6.1.3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
+7.6.2.3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
 
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
 
 **7.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
