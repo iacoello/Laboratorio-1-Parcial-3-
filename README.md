@@ -89,15 +89,15 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 ![image](https://user-images.githubusercontent.com/93835587/152986655-21ba3f8f-6de8-4bde-96b8-e148534581c9.png)
 
+Circuito Armado 
+
+![image](https://user-images.githubusercontent.com/93835587/152996427-978b7683-c506-4615-b013-dcf08a8b8db5.png)
 
 
 a. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas. 
 
 
-Circuito Armado 
 
-
-![image](https://user-images.githubusercontent.com/93835587/152996427-978b7683-c506-4615-b013-dcf08a8b8db5.png)
 
 
 Frecuencia de 0Hz
