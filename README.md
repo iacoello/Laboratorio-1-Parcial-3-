@@ -111,27 +111,27 @@ Frecuencia de 1000 Hz
 
 7.6.3. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados. 
 
- Para 0Hz
+ Frecuencia de 0Hz
  
  ![image](https://user-images.githubusercontent.com/93835587/153006191-318e0eef-3ebb-4b25-9b15-41a9c09d4413.png)
 
- Para 10 Hz
+ Frecuencia de 10 Hz
  
  ![image](https://user-images.githubusercontent.com/93835587/153004308-8ea11724-8cab-4d72-affe-fc057e14a649.png)
  
- Para 50 Hz
+ Frecuencia de 50 Hz
  
 ![image](https://user-images.githubusercontent.com/93835587/153002395-e716580a-7ade-4f4d-a2fe-db671c9f5c54.png)
 
- Para 100Hz
+ Frecuencia de 100Hz
  
  ![image](https://user-images.githubusercontent.com/93835587/153001752-9181da86-ab76-44b9-ae7d-8a915f36539d.png)
 
- Para 500Hz
+ Frecuencia de 500Hz
  
  ![image](https://user-images.githubusercontent.com/93835587/153000423-18d310f9-e0f3-486f-b0e5-09d3a5447077.png)
 
- Para 1000Hz
+ Frecuencia de 1000Hz
 
 ![image](https://user-images.githubusercontent.com/93835587/153000739-c9b52b0b-7910-4d5a-9b01-a1950d44f79d.png)
 
