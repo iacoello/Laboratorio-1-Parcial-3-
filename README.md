@@ -3,7 +3,7 @@
 
 ![Logo_ESPE](https://user-images.githubusercontent.com/93800511/140828546-04ee2765-180c-4e68-84cf-8bca73c21c5f.png)
 
-**PRACTICA NO.7. INDUCTOR Y CAPACITOR**
+**PRÁCTICA No.7 INDUCTOR Y CAPACITOR**
 
 **INTEGRANTES**
 * Coello Ismael 
