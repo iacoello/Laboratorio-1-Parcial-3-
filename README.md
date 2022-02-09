@@ -85,6 +85,11 @@ PRÁCTICA NO. 7. INDUCTOR Y CAPACITOR
 
 **7.6. PROCEDIMIENTO**
 
+**7.6.1. Construya en el protoboard el circuito mostrado en la Figura 1.**
+
+a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas. 
+
+
 Circuito Armado 
 
 Caso 1
