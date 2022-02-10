@@ -239,7 +239,7 @@ La bobina y el capacitor están en un constante proceso de carga y descarga por 
 
 7.8.3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-los valores de Vₒ varían en función de que tanto se altere la impedancia del valor total de impedancia, Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor.
+Los valores de Vₒ varían en función de que tanto se altere la impedancia del valor total de impedancia, Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor.
 
 7.8.4. ¿Qué son los valores eficaces de voltaje y corriente? 
 
@@ -247,13 +247,15 @@ Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 **7.9. VIDEOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7.10. CONCLUCIONES**
 
+* El osciloscopio muestra la forma de onda seno de la corriente alterna que permite determinar el voltaje pico, pico a pico y rms.
+* El valor de la caída de tensión medida con el multímetro corresponde al valor eficaz de la caída de tensión media con el osciloscopio. 
+* En cero Hz la corriente se comporta como corriente continua lo que puede hacer que dependiendo de la frecuencia los capacitores e inductores se comporten de una forma u otra.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
