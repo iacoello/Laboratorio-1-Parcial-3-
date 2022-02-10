@@ -222,7 +222,7 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 Circuito RC.
 
-![image](https://user-images.githubusercontent.com/93835533/153319100-4469b5b8-0d5f-4fce-9579-c06e81dde939.png)
+![image](https://user-images.githubusercontent.com/93835533/153320236-2e2546cb-86b3-4282-a1a0-1667c49d1666.png)
 
 Circuito RL.
 
