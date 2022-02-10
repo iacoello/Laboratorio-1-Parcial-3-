@@ -226,11 +226,24 @@ comente los resultados obtenidos tomando en cuenta las distintas frecuencias uti
 
 7.8.1. ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+La bobina y el capacitor se oponen al cambio inmediato del voltaje y la corriente respectivamente generando un voltaje o corriente inducido.
+
+La bobina al tener una corriente constante la caída de tensión que pasa sobre ella es igual a cero simulando un cortocircuito (cable), es decir, la bobina en corriente continua se comporta como un cable. 
+
+Debido a que la intensidad de corriente que atravesaría el capacitor es igual a cero el capacitor, se lo toma como un “circuito abierto” en el circuito.
+
+
 7.8.2. ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
+
+La bobina y el capacitor están en un constante proceso de carga y descarga por lo que el voltaje se mantiene durante un intervalo de tiempo definido debido a que existe una variación de corriente.
 
 7.8.3. ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
+los valores de Vₒ varían en función de que tanto se altere la impedancia del valor total de impedancia, Si la impedancia capacitiva o resistiva resulta ser menor, la caída de tensión Vₒ sería menor y si resulta ser mayor, la caída de tensión Vₒ sería mayor.
+
 7.8.4. ¿Qué son los valores eficaces de voltaje y corriente? 
+
+Los valores eficaces de corriente y voltaje son aquellos valores equivalentes en corriente continua es decir tendrá el mismo comportamiento respecto a potencia suministrada en el circuito.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
