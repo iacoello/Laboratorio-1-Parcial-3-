@@ -112,12 +112,11 @@ Frecuencia de 1000 Hz
 
 
 
-7.6.1.2. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
-
- Frecuencia de 0Hz
+7.6.1.2. Utilice un multímetro para medir el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.  
  
  7.6.1.3. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados. 
-
+ 
+Frecuencia de 0Hz
  
 ![image](https://user-images.githubusercontent.com/93835587/153305627-3695ea09-b33c-4e7c-903f-584f01128b0d.png)
 
