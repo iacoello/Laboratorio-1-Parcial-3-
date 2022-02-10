@@ -151,6 +151,9 @@ Frecuencia de 1000 Hz
 
 Circuito Armado 
 
+![image](https://user-images.githubusercontent.com/93835587/153314279-be0d9fad-5d30-4e05-a995-af256baf8752.png)
+
+
 7.6.2.1. Utilice el osciloscopio para observar el voltaje Vo variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores pico de las ondas observadas.
 
 Frecuencia de 0 Hz
