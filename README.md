@@ -220,6 +220,11 @@ Para cada uno de los circuitos anteriores, elabore una tabla con los resultados 
 diferentes mediciones de voltaje realizadas con el osciloscopio y multímetro. Compare y
 comente los resultados obtenidos tomando en cuenta las distintas frecuencias utilizadas.
 
+Circuito RC.
+
+![image](https://user-images.githubusercontent.com/93835533/153319100-4469b5b8-0d5f-4fce-9579-c06e81dde939.png)
+
+
 -------------------------------------------------- -------------------------------------------------- -------------------------------------------------- --------------------------
 
 **7.8. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
